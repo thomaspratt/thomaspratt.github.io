@@ -1,9 +1,10 @@
 ---
 layout: default
 title: "Home"
-description: "What does this do?"
+description: "Links to many of my finished projects."
 ---
+# Projects
 
-# About me
 
-Here's some stuff I'm about.
+# Undergraduate Research
+[A Performance Simulation of Store Sets using SimpleScalar](assets/pdf/cs550-paper.pdf)
