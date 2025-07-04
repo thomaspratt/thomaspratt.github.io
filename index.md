@@ -7,4 +7,4 @@ description: "Links to many of my finished projects."
 
 
 # Undergraduate Research
-[A Performance Simulation of Store Sets using SimpleScalar](assets/pdf/cs550-paper.pdf)
+[A Performance Simulation of Store Sets using SimpleScalar](assets/cs550-paper.pdf)
