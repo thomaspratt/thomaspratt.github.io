@@ -3,6 +3,7 @@ layout: default
 title: "Home"
 description: "Links to many of my finished projects."
 ---
+![Tommy Pratt](assets/head.jpg)
 # Pedagogical work
 This section provides selected lesson plans, projects, and code from my computer science classes designed for high schoolers.
 
